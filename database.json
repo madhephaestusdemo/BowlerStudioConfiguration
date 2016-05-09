@@ -1,3 +1,9 @@
 {
+  "studio-open-git": {
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {}
 }

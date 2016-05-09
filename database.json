@@ -1,6 +1,10 @@
 {
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
-    "jogLink": "x"
+    "jogKinz": "rz",
+    "jogLink": "x",
+    "jogKinslider": "slider",
+    "jogKiny": "y",
+    "jogKinx": "x"
   },
   "studio-open-git": {},
   "BowlerStudioConfigs": {}

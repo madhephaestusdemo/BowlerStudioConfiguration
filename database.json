@@ -6,12 +6,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/4685edc114ce569e0e8d1eef0795a1ba.git:ThreeDPrintCad.groovy": [
-      "https://gist.github.com/4685edc114ce569e0e8d1eef0795a1ba.git",
-      "ThreeDPrintCad.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1"
   },

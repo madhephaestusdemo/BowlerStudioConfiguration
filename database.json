@@ -8,7 +8,8 @@
   },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
-    "firstVersion": "0.17.1"
+    "firstVersion": "0.17.1",
+    "showDevices": true
   },
   "Saitek PLC Cyborg Force Rumble Pad": {
     "jogKinz": "rz",

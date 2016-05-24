@@ -1,4 +1,5 @@
 {
+  "studio-open-web": {},
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
     "jogLink": "x",
@@ -9,7 +10,9 @@
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
-    "showDevices": false
+    "showTerminal": false,
+    "showDevices": false,
+    "showCreatureLab": false
   },
   "Saitek PLC Cyborg Force Rumble Pad": {
     "jogKinz": "rz",

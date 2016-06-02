@@ -10,11 +10,11 @@
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
-    "showTerminal": false,
+    "showTerminal": true,
     "skinBranch": "master",
     "showDevices": false,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "showCreatureLab": false
+    "showCreatureLab": true
   },
   "Saitek PLC Cyborg Force Rumble Pad": {
     "jogKinz": "rz",

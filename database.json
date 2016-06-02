@@ -7,19 +7,14 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
-    "showTerminal": true,
+    "showTerminal": false,
     "skinBranch": "master",
     "showDevices": false,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "showCreatureLab": true
+    "showCreatureLab": false
   },
   "Saitek PLC Cyborg Force Rumble Pad": {
     "jogKinz": "rz",

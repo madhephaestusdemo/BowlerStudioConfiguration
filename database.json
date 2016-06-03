@@ -14,7 +14,7 @@
     "skinBranch": "master",
     "showDevices": false,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "showCreatureLab": true
+    "showCreatureLab": false
   },
   "Saitek PLC Cyborg Force Rumble Pad": {
     "jogKinz": "rz",

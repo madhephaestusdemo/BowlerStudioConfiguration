@@ -10,9 +10,9 @@
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
-    "showTerminal": false,
+    "showTerminal": true,
     "skinBranch": "master",
-    "showDevices": false,
+    "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "showCreatureLab": true
   },

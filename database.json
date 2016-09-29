@@ -7,7 +7,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/173546fbf47ce5ae70f0554178482e85.git:helloWorld.groovy": [
+      "https://gist.github.com/173546fbf47ce5ae70f0554178482e85.git",
+      "helloWorld.groovy"
+    ],
+    "https://gist.github.com/18a695e3daf3fc42e5c7f925ff8591b1.git:javaCad.groovy": [
+      "https://gist.github.com/18a695e3daf3fc42e5c7f925ff8591b1.git",
+      "javaCad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,

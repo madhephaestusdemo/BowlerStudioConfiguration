@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/dfbb9672f9584fec571f436ec53aefef.git:cube.groovy": [
+      "https://gist.github.com/dfbb9672f9584fec571f436ec53aefef.git",
+      "cube.groovy"
+    ],
     "https://gist.github.com/173546fbf47ce5ae70f0554178482e85.git:helloWorld.groovy": [
       "https://gist.github.com/173546fbf47ce5ae70f0554178482e85.git",
       "helloWorld.groovy"

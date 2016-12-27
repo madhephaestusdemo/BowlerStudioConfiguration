@@ -11,14 +11,6 @@
     "https://gist.github.com/dfbb9672f9584fec571f436ec53aefef.git:cube.groovy": [
       "https://gist.github.com/dfbb9672f9584fec571f436ec53aefef.git",
       "cube.groovy"
-    ],
-    "https://gist.github.com/173546fbf47ce5ae70f0554178482e85.git:helloWorld.groovy": [
-      "https://gist.github.com/173546fbf47ce5ae70f0554178482e85.git",
-      "helloWorld.groovy"
-    ],
-    "https://gist.github.com/18a695e3daf3fc42e5c7f925ff8591b1.git:javaCad.groovy": [
-      "https://gist.github.com/18a695e3daf3fc42e5c7f925ff8591b1.git",
-      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -27,7 +19,7 @@
     "skinBranch": "master",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.20.0",
+    "currentVersion": "0.20.1",
     "notifiedArduinoDep": true,
     "showCreatureLab": true
   },

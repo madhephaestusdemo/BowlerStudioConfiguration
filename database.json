@@ -16,7 +16,7 @@
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
-    "skinBranch": "master",
+    "skinBranch": "0.20.8",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.0",

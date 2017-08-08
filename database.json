@@ -7,16 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/dfbb9672f9584fec571f436ec53aefef.git:cube.groovy": [
-      "https://gist.github.com/dfbb9672f9584fec571f436ec53aefef.git",
-      "cube.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
-    "skinBranch": "0.21.0",
+    "fontsize": 12,
+    "skinBranch": "0.22.1",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.0",

@@ -11,8 +11,8 @@
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
-    "fontsize": 12,
-    "skinBranch": "0.22.1",
+    "fontsize": 12.0,
+    "skinBranch": "0.28.1",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.0",

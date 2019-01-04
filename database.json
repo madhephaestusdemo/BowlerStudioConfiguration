@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git:conemove.groovy": [
+      "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git",
+      "conemove.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,

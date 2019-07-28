@@ -11,6 +11,10 @@
     "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
       "GIST: parabola",
       "1564337866195"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1564337868616"
     ]
   },
   "studio-open-web": {},
@@ -29,6 +33,14 @@
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
       "launch.groovy"
+    ],
+    "https://github.com/OperationSmallKat/greycat.git:walking.groovy": [
+      "https://github.com/OperationSmallKat/greycat.git",
+      "walking.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalking.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/DynamicWalking.groovy"
     ],
     "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git:conemove.groovy": [
       "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git",

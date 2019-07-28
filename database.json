@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/OperationSmallKat/greycat.git": [
+      "OperationSmallKat/greycat",
+      "1564337867020"
+    ],
     "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git": [
       "GIST: conemove.groovy",
       "1564334896645"
@@ -21,6 +25,10 @@
     "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git:ParabolaTest.groovy": [
       "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git",
       "ParabolaTest.groovy"
+    ],
+    "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/greycat.git",
+      "launch.groovy"
     ],
     "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git:conemove.groovy": [
       "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git",

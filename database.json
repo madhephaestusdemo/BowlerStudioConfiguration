@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/69a3f85cfc37aeb58053de8baba1c284.git": [
+      "GIST: JavaCadExample",
+      "1565899758877"
+    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1564337867020"
@@ -30,6 +34,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/69a3f85cfc37aeb58053de8baba1c284.git:javaCad.groovy": [
+      "https://gist.github.com/69a3f85cfc37aeb58053de8baba1c284.git",
+      "javaCad.groovy"
+    ],
     "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git:ParabolaTest.groovy": [
       "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git",
       "ParabolaTest.groovy"

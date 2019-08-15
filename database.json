@@ -12,6 +12,10 @@
       "GIST: parabola",
       "1564337866195"
     ],
+    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
+      "GIST: BowlerStudio Hello World",
+      "1565899705417"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1564337868616"
@@ -29,6 +33,10 @@
     "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git:ParabolaTest.groovy": [
       "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git",
       "ParabolaTest.groovy"
+    ],
+    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git:helloWorld.groovy": [
+      "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git",
+      "helloWorld.groovy"
     ],
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",

@@ -33,36 +33,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/69a3f85cfc37aeb58053de8baba1c284.git:javaCad.groovy": [
-      "https://gist.github.com/69a3f85cfc37aeb58053de8baba1c284.git",
-      "javaCad.groovy"
-    ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git:ParabolaTest.groovy": [
-      "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git",
-      "ParabolaTest.groovy"
-    ],
-    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git:helloWorld.groovy": [
-      "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git",
-      "helloWorld.groovy"
-    ],
-    "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/greycat.git",
-      "launch.groovy"
-    ],
-    "https://github.com/OperationSmallKat/greycat.git:walking.groovy": [
-      "https://github.com/OperationSmallKat/greycat.git",
-      "walking.groovy"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalking.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalking.groovy"
-    ],
-    "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git:conemove.groovy": [
-      "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git",
-      "conemove.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,

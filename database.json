@@ -37,16 +37,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/69a3f85cfc37aeb58053de8baba1c284.git:javaCad.groovy": [
-      "https://gist.github.com/69a3f85cfc37aeb58053de8baba1c284.git",
-      "javaCad.groovy"
-    ],
-    "https://gist.github.com/bf40405da8a5f096a13f761637980f77.git:cube.groovy": [
-      "https://gist.github.com/bf40405da8a5f096a13f761637980f77.git",
-      "cube.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,

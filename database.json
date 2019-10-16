@@ -42,6 +42,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "none:/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy": [
+      "none",
+      "/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy"
+    ],
     "git@github.com:madhephaestus/BowlerStudioDebugging.git:testSpecialFunction.groovy": [
       "git@github.com:madhephaestus/BowlerStudioDebugging.git",
       "testSpecialFunction.groovy"

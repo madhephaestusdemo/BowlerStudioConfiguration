@@ -46,10 +46,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/madhephaestusdemo/greycat.git:walking.groovy": [
-      "https://github.com/madhephaestusdemo/greycat.git",
-      "walking.groovy"
-    ],
     "none:/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy": [
       "none",
       "/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy"

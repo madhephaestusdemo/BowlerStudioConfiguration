@@ -54,6 +54,10 @@
       "none",
       "/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy"
     ],
+    "https://github.com/madhephaestusdemo/greycat.git:launch.groovy": [
+      "https://github.com/madhephaestusdemo/greycat.git",
+      "launch.groovy"
+    ],
     "git@github.com:madhephaestus/BowlerStudioDebugging.git:testSpecialFunction.groovy": [
       "git@github.com:madhephaestus/BowlerStudioDebugging.git",
       "testSpecialFunction.groovy"

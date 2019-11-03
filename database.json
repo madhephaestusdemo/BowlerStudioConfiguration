@@ -36,6 +36,10 @@
       "GIST: Walk a Mobile base around",
       "1572816663729"
     ],
+    "https://github.com/madhephaestusdemo/PrivateKatTwo.git": [
+      "madhephaestusdemo/PrivateKatTwo",
+      "1572822106244"
+    ],
     "https://github.com/xaveagle/blackcat.git": [
       "xaveagle/blackcat",
       "1572030995881"
@@ -65,6 +69,10 @@
     "none:/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy": [
       "none",
       "/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy"
+    ],
+    "https://github.com/madhephaestusdemo/privateKat.git:greycat/launch.groovy": [
+      "https://github.com/madhephaestusdemo/privateKat.git",
+      "greycat/launch.groovy"
     ],
     "git@github.com:madhephaestus/BowlerStudioDebugging.git:testSpecialFunction.groovy": [
       "git@github.com:madhephaestus/BowlerStudioDebugging.git",

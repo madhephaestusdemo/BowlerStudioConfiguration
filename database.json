@@ -4,10 +4,6 @@
       "GIST: JavaCadExample",
       "1565899758877"
     ],
-    "https://github.com/xaveagle/blackcat.git": [
-      "xaveagle/blackcat",
-      "1572030995881"
-    ],
     "https://github.com/OperationSmallKat/greycat.git": [
       "OperationSmallKat/greycat",
       "1564337867020"
@@ -32,13 +28,21 @@
       "GIST: testSpecialFunction.groovy",
       "1571257649202"
     ],
-    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
-      "GIST: BowlerStudio Hello World",
-      "1565899705417"
-    ],
     "https://github.com/madhephaestusdemo/privateKat.git": [
       "madhephaestusdemo/privateKat",
       "1572816518070"
+    ],
+    "https://gist.github.com/5e4905e624b0e9796322d37dbfb681ff.git": [
+      "GIST: Walk a Mobile base around",
+      "1572816663729"
+    ],
+    "https://github.com/xaveagle/blackcat.git": [
+      "xaveagle/blackcat",
+      "1572030995881"
+    ],
+    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
+      "GIST: BowlerStudio Hello World",
+      "1565899705417"
     ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
@@ -58,6 +62,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/5e4905e624b0e9796322d37dbfb681ff.git:WalkTest.groovy": [
+      "https://gist.github.com/5e4905e624b0e9796322d37dbfb681ff.git",
+      "WalkTest.groovy"
+    ],
     "none:/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy": [
       "none",
       "/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy"
@@ -69,10 +77,6 @@
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:rbe2002_load_cell_bracket.groovy": [
       "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
       "rbe2002_load_cell_bracket.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/privateKat.git:greycat/launch.groovy": [
-      "https://github.com/madhephaestusdemo/privateKat.git",
-      "greycat/launch.groovy"
     ],
     "git@github.com:madhephaestus/BowlerStudioDebugging.git:testSpecialFunction.groovy": [
       "git@github.com:madhephaestus/BowlerStudioDebugging.git",

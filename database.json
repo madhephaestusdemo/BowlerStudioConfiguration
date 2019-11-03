@@ -62,21 +62,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/5e4905e624b0e9796322d37dbfb681ff.git:WalkTest.groovy": [
-      "https://gist.github.com/5e4905e624b0e9796322d37dbfb681ff.git",
-      "WalkTest.groovy"
-    ],
     "none:/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy": [
       "none",
       "/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/greycat.git:launch.groovy": [
-      "https://github.com/madhephaestusdemo/greycat.git",
-      "launch.groovy"
-    ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:rbe2002_load_cell_bracket.groovy": [
-      "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
-      "rbe2002_load_cell_bracket.groovy"
     ],
     "git@github.com:madhephaestus/BowlerStudioDebugging.git:testSpecialFunction.groovy": [
       "git@github.com:madhephaestus/BowlerStudioDebugging.git",

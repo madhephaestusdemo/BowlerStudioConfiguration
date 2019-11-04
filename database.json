@@ -12,10 +12,6 @@
       "OperationSmallKat/greycat",
       "1564337867020"
     ],
-    "https://gist.github.com/c2c0371140ccfb88a0e5e345349a7c21.git": [
-      "GIST: conemove.groovy",
-      "1564334896645"
-    ],
     "https://github.com/madhephaestusdemo/greycat.git": [
       "madhephaestusdemo/greycat",
       "1571432622865"
@@ -52,6 +48,10 @@
       "GIST: BowlerStudio Hello World",
       "1565899705417"
     ],
+    "https://github.com/madhephaestusdemo/BowlerStudioConfiguration.git": [
+      "madhephaestusdemo/BowlerStudioConfiguration",
+      "1572886211681"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1564337868616"
@@ -70,6 +70,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/madhephaestusdemo/BowlerStudioConfiguration.git:database.json": [
+      "https://github.com/madhephaestusdemo/BowlerStudioConfiguration.git",
+      "database.json"
+    ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "launch.groovy"

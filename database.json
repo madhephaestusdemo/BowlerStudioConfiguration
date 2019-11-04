@@ -70,10 +70,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "none:/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy": [
-      "none",
-      "/home/hephaestus/demo-workspace/MyLaunchTest/testScript.groovy"
-    ],
     "git@github.com:madhephaestus/BowlerStudioDebugging.git:testSpecialFunction.groovy": [
       "git@github.com:madhephaestus/BowlerStudioDebugging.git",
       "testSpecialFunction.groovy"
@@ -83,7 +79,7 @@
     "firstVersion": "0.17.1",
     "showTerminal": true,
     "fontsize": 12.0,
-    "skinBranch": "0.28.1",
+    "skinBranch": "0.33.3",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.0",

@@ -24,6 +24,10 @@
       "GIST: parabola",
       "1564337866195"
     ],
+    "https://gist.github.com/07892179cf0dc6eaa86360a3ef8007d0.git": [
+      "GIST: walkingGroupCycleSeperation.groovy",
+      "1573429037188"
+    ],
     "https://gist.github.com/19d109d49d6f0c51e11389daa13d838c.git": [
       "GIST: testSpecialFunction.groovy",
       "1571257649202"
@@ -66,6 +70,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/07892179cf0dc6eaa86360a3ef8007d0.git:walkingGroupCycleSeperation.groovy": [
+      "https://gist.github.com/07892179cf0dc6eaa86360a3ef8007d0.git",
+      "walkingGroupCycleSeperation.groovy"
+    ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "launch.groovy"

@@ -69,7 +69,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git:BNO055Visualizer.groovy": [
+      "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git",
+      "BNO055Visualizer.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,

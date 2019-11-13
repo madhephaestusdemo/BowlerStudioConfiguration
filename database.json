@@ -20,10 +20,6 @@
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1572359713281"
     ],
-    "https://gist.github.com/272cb92d41d9d4daee281e545048772c.git": [
-      "GIST: parabola",
-      "1564337866195"
-    ],
     "https://gist.github.com/07892179cf0dc6eaa86360a3ef8007d0.git": [
       "GIST: walkingGroupCycleSeperation.groovy",
       "1573429037188"
@@ -43,6 +39,10 @@
     "https://github.com/xaveagle/blackcat.git": [
       "xaveagle/blackcat",
       "1572030995881"
+    ],
+    "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git": [
+      "GIST: BNO055 Visualizer",
+      "1573667362925"
     ],
     "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
       "GIST: BowlerStudio Hello World",

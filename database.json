@@ -69,16 +69,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/07892179cf0dc6eaa86360a3ef8007d0.git:walkingGroupCycleSeperation.groovy": [
-      "https://gist.github.com/07892179cf0dc6eaa86360a3ef8007d0.git",
-      "walkingGroupCycleSeperation.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "launch.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,

@@ -70,9 +70,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git:BNO055Visualizer.groovy": [
-      "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git",
-      "BNO055Visualizer.groovy"
+    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
+      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {

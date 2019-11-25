@@ -70,13 +70,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git:helloWorld.groovy": [
-      "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git",
-      "helloWorld.groovy"
-    ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "launch.groovy"
+    ],
+    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:LoadPhysicsManager.groovy": [
+      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
+      "LoadPhysicsManager.groovy"
     ]
   },
   "BowlerStudioConfigs": {

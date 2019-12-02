@@ -70,6 +70,14 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:walkcycleTest.groovy": [
+      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
+      "walkcycleTest.groovy"
+    ],
+    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
+      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
+      "launch.groovy"
+    ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:LoadPhysicsManager.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "LoadPhysicsManager.groovy"

@@ -44,13 +44,13 @@
       "GIST: BNO055 Visualizer",
       "1573667362925"
     ],
-    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
-      "GIST: BowlerStudio Hello World",
-      "1565899705417"
-    ],
     "https://github.com/madhephaestusdemo/BowlerStudioConfiguration.git": [
       "madhephaestusdemo/BowlerStudioConfiguration",
       "1572886211681"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
+      "OperationSmallKat/SmallKat_V2",
+      "1575466695716"
     ],
     "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git": [
       "GIST: printimu.groovy",
@@ -81,6 +81,10 @@
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:LoadPhysicsManager.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "LoadPhysicsManager.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "loadRobot.groovy"
     ]
   },
   "BowlerStudioConfigs": {

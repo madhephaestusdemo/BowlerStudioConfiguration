@@ -52,13 +52,13 @@
       "OperationSmallKat/SmallKat_V2",
       "1575466695716"
     ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "CommonWealthRobotics/DHParametersCadDisplay",
+      "1575649422182"
+    ],
     "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git": [
       "GIST: printimu.groovy",
       "1572891666991"
-    ],
-    "https://gist.github.com/bf40405da8a5f096a13f761637980f77.git": [
-      "GIST: cube.groovy",
-      "1571253669627"
     ]
   },
   "studio-open-web": {},
@@ -74,9 +74,17 @@
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "walkcycleTest.groovy"
     ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "launch.groovy"
+    ],
+    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:MediumKat.xml": [
+      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
+      "MediumKat.xml"
     ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:LoadPhysicsManager.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",

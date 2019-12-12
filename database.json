@@ -4,10 +4,6 @@
       "madhephaestusdemo/FinalProjectSmallKat",
       "1572876181481"
     ],
-    "https://gist.github.com/69a3f85cfc37aeb58053de8baba1c284.git": [
-      "GIST: JavaCadExample",
-      "1565899758877"
-    ],
     "https://github.com/madhephaestusdemo/greycat.git": [
       "madhephaestusdemo/greycat",
       "1571432622865"
@@ -44,6 +40,10 @@
       "GIST: BNO055 Visualizer",
       "1573667362925"
     ],
+    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
+      "GIST: BowlerStudio Hello World",
+      "1576171890582"
+    ],
     "https://github.com/madhephaestusdemo/BowlerStudioConfiguration.git": [
       "madhephaestusdemo/BowlerStudioConfiguration",
       "1572886211681"
@@ -70,25 +70,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:walkcycleTest.groovy": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "walkcycleTest.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:walking.groovy": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "walking.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "launch.groovy"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalking.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalking.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:LoadPhysicsManager.groovy": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "LoadPhysicsManager.groovy"
+    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git:helloWorld.groovy": [
+      "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git",
+      "helloWorld.groovy"
     ]
   },
   "BowlerStudioConfigs": {

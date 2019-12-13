@@ -40,6 +40,10 @@
       "GIST: BNO055 Visualizer",
       "1573667362925"
     ],
+    "https://github.com/OperationSmallKat/Luna.git": [
+      "OperationSmallKat/Luna",
+      "1576252584546"
+    ],
     "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
       "GIST: BowlerStudio Hello World",
       "1576171890582"
@@ -55,10 +59,6 @@
     "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git": [
       "GIST: printimu.groovy",
       "1572891666991"
-    ],
-    "https://gist.github.com/bf40405da8a5f096a13f761637980f77.git": [
-      "GIST: cube.groovy",
-      "1571253669627"
     ]
   },
   "studio-open-web": {},

@@ -74,13 +74,17 @@
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "walkcycleTest.groovy"
     ],
-    "https://gist.github.com/5f77b94b8d3480b4e42aadbadcd1231b.git:CreatureCadGenerator.groovy": [
-      "https://gist.github.com/5f77b94b8d3480b4e42aadbadcd1231b.git",
-      "CreatureCadGenerator.groovy"
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
     ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "launch.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/MediumCad.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/MediumCad.groovy"
     ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:LoadPhysicsManager.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",

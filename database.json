@@ -20,10 +20,6 @@
       "vermontolympian/Baby-Yoda",
       "1575406839184"
     ],
-    "https://gist.github.com/19d109d49d6f0c51e11389daa13d838c.git": [
-      "GIST: testSpecialFunction.groovy",
-      "1571257649202"
-    ],
     "https://github.com/madhephaestusdemo/privateKat.git": [
       "madhephaestusdemo/privateKat",
       "1572816518070"
@@ -31,6 +27,10 @@
     "https://gist.github.com/5e4905e624b0e9796322d37dbfb681ff.git": [
       "GIST: Walk a Mobile base around",
       "1572816663729"
+    ],
+    "https://gist.github.com/5f77b94b8d3480b4e42aadbadcd1231b.git": [
+      "GIST: CreatureCadGenerator.groovy",
+      "1576690240678"
     ],
     "https://github.com/xaveagle/blackcat.git": [
       "xaveagle/blackcat",
@@ -73,6 +73,10 @@
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:walkcycleTest.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "walkcycleTest.groovy"
+    ],
+    "https://gist.github.com/5f77b94b8d3480b4e42aadbadcd1231b.git:CreatureCadGenerator.groovy": [
+      "https://gist.github.com/5f77b94b8d3480b4e42aadbadcd1231b.git",
+      "CreatureCadGenerator.groovy"
     ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",

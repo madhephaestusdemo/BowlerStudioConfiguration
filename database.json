@@ -70,13 +70,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "launch.groovy"
-    ],
-    "git@github.com:CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
-      "git@github.com:CommonWealthRobotics/DHParametersCadDisplay.git",
-      "dhcad.groovy"
     ]
   },
   "BowlerStudioConfigs": {

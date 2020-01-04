@@ -76,13 +76,16 @@
     ]
   },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.17.1",
     "showTerminal": true,
+    "tutorialBranch": "master",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "0.28.1",
+    "skinBranch": "1.0.9",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.20.0",
+    "currentVersion": "1.0.9",
     "notifiedArduinoDep": true,
     "showCreatureLab": true
   },

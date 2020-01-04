@@ -73,6 +73,10 @@
     "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
       "launch.groovy"
+    ],
+    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:MediumKat.xml": [
+      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
+      "MediumKat.xml"
     ]
   },
   "BowlerStudioConfigs": {

@@ -86,10 +86,9 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.4.5",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.4.5",
+    "currentVersion": "1.4.6",
     "notifiedArduinoDep": true,
     "showCreatureLab": true
   },

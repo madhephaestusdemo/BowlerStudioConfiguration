@@ -69,16 +69,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "launch.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:MediumKat.xml": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "MediumKat.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.17.1",

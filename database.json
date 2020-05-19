@@ -69,7 +69,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
+      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
+      "launch.groovy"
+    ],
+    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:MediumKat.xml": [
+      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
+      "MediumKat.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.17.1",
@@ -77,10 +86,10 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "1.7.4",
+    "skinBranch": "1.4.6",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.7.4",
+    "currentVersion": "1.4.6",
     "notifiedArduinoDep": true,
     "showCreatureLab": true
   },

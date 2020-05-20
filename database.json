@@ -1,103 +1,14 @@
 {
-  "workspace": {
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git": [
-      "madhephaestusdemo/FinalProjectSmallKat",
-      "1578165172700"
-    ],
-    "https://github.com/madhephaestusdemo/greycat.git": [
-      "madhephaestusdemo/greycat",
-      "1571432622865"
-    ],
-    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
-      "WPIRoboticsEngineering/RBELabCustomParts",
-      "1572359713281"
-    ],
-    "https://gist.github.com/07892179cf0dc6eaa86360a3ef8007d0.git": [
-      "GIST: walkingGroupCycleSeperation.groovy",
-      "1573429037188"
-    ],
-    "https://github.com/vermontolympian/Baby-Yoda.git": [
-      "vermontolympian/Baby-Yoda",
-      "1575406839184"
-    ],
-    "https://github.com/madhephaestusdemo/privateKat.git": [
-      "madhephaestusdemo/privateKat",
-      "1572816518070"
-    ],
-    "https://gist.github.com/5e4905e624b0e9796322d37dbfb681ff.git": [
-      "GIST: Walk a Mobile base around",
-      "1572816663729"
-    ],
-    "https://gist.github.com/5f77b94b8d3480b4e42aadbadcd1231b.git": [
-      "GIST: CreatureCadGenerator.groovy",
-      "1576690240678"
-    ],
-    "https://github.com/xaveagle/blackcat.git": [
-      "xaveagle/blackcat",
-      "1572030995881"
-    ],
-    "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git": [
-      "GIST: BNO055 Visualizer",
-      "1573667362925"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git": [
-      "OperationSmallKat/Luna",
-      "1576252584546"
-    ],
-    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
-      "GIST: BowlerStudio Hello World",
-      "1576171890582"
-    ],
-    "https://github.com/madhephaestusdemo/BowlerStudioConfiguration.git": [
-      "madhephaestusdemo/BowlerStudioConfiguration",
-      "1572886211681"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git": [
-      "OperationSmallKat/SmallKat_V2",
-      "1575904520532"
-    ],
-    "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git": [
-      "GIST: printimu.groovy",
-      "1572891666991"
-    ]
-  },
+  "workspace": {},
   "studio-open-web": {},
-  "Saitek PLC Saitek P2600 Rumble Force Pad": {
-    "jogKinz": "rz",
-    "jogLink": "x",
-    "jogKinslider": "slider",
-    "jogKiny": "y",
-    "jogKinx": "x"
-  },
-  "studio-open-git": {
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:launch.groovy": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "launch.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git:MediumKat.xml": [
-      "https://github.com/madhephaestusdemo/FinalProjectSmallKat.git",
-      "MediumKat.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
-    "firstVersion": "0.17.1",
-    "showTerminal": true,
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 12,
     "skinBranch": "1.8.1",
-    "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.8.1",
-    "notifiedArduinoDep": true,
-    "showCreatureLab": true
-  },
-  "Saitek PLC Cyborg Force Rumble Pad": {
-    "jogKinz": "rz",
-    "jogLink": "x",
-    "jogKinslider": "slider",
-    "jogKiny": "y",
-    "jogKinx": "x"
+    "notifiedArduinoDep": true
   }
 }

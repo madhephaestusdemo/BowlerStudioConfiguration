@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
+      "GIST: BowlerStudio Hello World",
+      "1589991675682"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {

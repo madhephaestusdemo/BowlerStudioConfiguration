@@ -4,6 +4,10 @@
       "GIST: BowlerStudio Hello World",
       "1589991675682"
     ],
+    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
+      "madhephaestusdemo/helloWorld_madhephaestusdemo",
+      "1609535619527"
+    ],
     "https://github.com/madhephaestusdemo/helloWorld.git": [
       "madhephaestusdemo/helloWorld",
       "1609535101561"
@@ -17,6 +21,10 @@
     ],
     "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git:helloWorld.groovy": [
       "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git",
+      "helloWorld.groovy"
+    ],
+    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:helloWorld.groovy": [
+      "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
       "helloWorld.groovy"
     ]
   },

@@ -23,6 +23,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git:printimu.groovy": [
+      "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git",
+      "printimu.groovy"
+    ],
     "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:test.SVG": [
       "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
       "test.SVG"

@@ -27,21 +27,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git:printimu.groovy": [
-      "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git",
-      "printimu.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:test.SVG": [
+    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:svgthingy.SVG": [
       "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
-      "test.SVG"
-    ],
-    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:helloWorld.groovy": [
-      "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
-      "helloWorld.groovy"
-    ],
-    "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git:BNO055Visualizer.groovy": [
-      "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git",
-      "BNO055Visualizer.groovy"
+      "svgthingy.SVG"
     ]
   },
   "BowlerStudioConfigs": {

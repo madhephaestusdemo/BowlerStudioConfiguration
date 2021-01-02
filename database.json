@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git": [
+      "GIST: BNO055 Visualizer",
+      "1609615617405"
+    ],
     "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
       "GIST: BowlerStudio Hello World",
       "1589991675682"
@@ -34,6 +38,10 @@
     "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:helloWorld.groovy": [
       "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
       "helloWorld.groovy"
+    ],
+    "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git:BNO055Visualizer.groovy": [
+      "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git",
+      "BNO055Visualizer.groovy"
     ]
   },
   "BowlerStudioConfigs": {

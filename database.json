@@ -12,6 +12,10 @@
       "GIST: Lets bring together some of the parts.",
       "1610133339918"
     ],
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
+      "GIST: Robot smashes through pile of bricks",
+      "1610133445094"
+    ],
     "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
       "GIST: BowlerStudio Hello World",
       "1589991675682"
@@ -39,9 +43,9 @@
       "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
       "svgthingy.SVG"
     ],
-    "https://gist.github.com/c3944b2a203585d969bf.git:kinematicsCad.groovy": [
-      "https://gist.github.com/c3944b2a203585d969bf.git",
-      "kinematicsCad.groovy"
+    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
+      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
+      "SimulatePhysics.groovy"
     ]
   },
   "BowlerStudioConfigs": {

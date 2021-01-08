@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/acamilo/SVGExtrude_acamilo.git": [
+      "acamilo/SVGExtrude_acamilo",
+      "1610130110137"
+    ],
     "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git": [
       "GIST: BNO055 Visualizer",
       "1609615617405"
@@ -27,6 +31,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/acamilo/SVGExtrude_acamilo.git:SVGExtrude.groovy": [
+      "https://github.com/acamilo/SVGExtrude_acamilo.git",
+      "SVGExtrude.groovy"
+    ],
     "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:svgthingy.SVG": [
       "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
       "svgthingy.SVG"

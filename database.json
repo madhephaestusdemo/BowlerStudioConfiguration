@@ -39,13 +39,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/madhephaestusdemo/SimulatePhysics_madhephaestusdemo.git:SimulatePhysics.groovy": [
+      "https://github.com/madhephaestusdemo/SimulatePhysics_madhephaestusdemo.git",
+      "SimulatePhysics.groovy"
+    ],
     "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:svgthingy.SVG": [
       "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
       "svgthingy.SVG"
-    ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
-      "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
-      "SimulatePhysics.groovy"
     ]
   },
   "BowlerStudioConfigs": {

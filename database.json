@@ -30,7 +30,7 @@
     ],
     "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
       "madhephaestusdemo/helloWorld_madhephaestusdemo",
-      "1629054315628"
+      "1629054990326"
     ],
     "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git": [
       "GIST: printimu.groovy",
@@ -50,6 +50,10 @@
     "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:svgthingy.SVG": [
       "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
       "svgthingy.SVG"
+    ],
+    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:helloWorld.groovy": [
+      "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
+      "helloWorld.groovy"
     ]
   },
   "BowlerStudioConfigs": {

@@ -47,6 +47,10 @@
       "https://github.com/madhephaestusdemo/SimulatePhysics_madhephaestusdemo.git",
       "SimulatePhysics.groovy"
     ],
+    "https://github.com/madhephaestusdemo/helloWorld.git:helloWorld.groovy": [
+      "https://github.com/madhephaestusdemo/helloWorld.git",
+      "helloWorld.groovy"
+    ],
     "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:svgthingy.SVG": [
       "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
       "svgthingy.SVG"

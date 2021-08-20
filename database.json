@@ -1,74 +1,8 @@
 {
-  "workspace": {
-    "https://github.com/acamilo/SVGExtrude_acamilo.git": [
-      "acamilo/SVGExtrude_acamilo",
-      "1610130110137"
-    ],
-    "https://gist.github.com/0c6657badf5bace537455c9d01ede242.git": [
-      "GIST: BNO055 Visualizer",
-      "1609615617405"
-    ],
-    "https://github.com/madhephaestusdemo/SimulatePhysics_madhephaestusdemo.git": [
-      "madhephaestusdemo/SimulatePhysics_madhephaestusdemo",
-      "1610133905355"
-    ],
-    "https://gist.github.com/c3944b2a203585d969bf.git": [
-      "GIST: Lets bring together some of the parts.",
-      "1610133339918"
-    ],
-    "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
-      "GIST: Robot smashes through pile of bricks",
-      "1610133445094"
-    ],
-    "https://gist.github.com/3a0a0b9bb834781164fe4f8f29b75fed.git": [
-      "GIST: BowlerStudio Hello World",
-      "1589991675682"
-    ],
-    "https://gist.github.com/5f77b94b8d3480b4e42aadbadcd1231b.git": [
-      "GIST: CreatureCadGenerator.groovy",
-      "1609614825807"
-    ],
-    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
-      "madhephaestusdemo/helloWorld_madhephaestusdemo",
-      "1629060601171"
-    ],
-    "https://gist.github.com/aff0e38209a2fa6c01789c9aaddd439c.git": [
-      "GIST: printimu.groovy",
-      "1609614831398"
-    ],
-    "https://github.com/madhephaestusdemo/helloWorld.git": [
-      "madhephaestusdemo/helloWorld",
-      "1629060600328"
-    ]
-  },
-  "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/madhephaestusdemo/SimulatePhysics_madhephaestusdemo.git:SimulatePhysics.groovy": [
-      "https://github.com/madhephaestusdemo/SimulatePhysics_madhephaestusdemo.git",
-      "SimulatePhysics.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/helloWorld.git:helloWorld.groovy": [
-      "https://github.com/madhephaestusdemo/helloWorld.git",
-      "helloWorld.groovy"
-    ],
-    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:svgthingy.SVG": [
-      "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
-      "svgthingy.SVG"
-    ],
-    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:helloWorld.groovy": [
-      "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
-      "helloWorld.groovy"
-    ]
-  },
   "BowlerStudioConfigs": {
-    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
-    "firstVersion": "1.8.1",
-    "tutorialBranch": "master",
-    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
-    "skinBranch": "1.31.2",
+    "firstVersion": "1.31.4",
+    "skinBranch": "1.31.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true,
-    "currentVersion": "1.31.2"
+    "currentVersion": "1.31.4"
   }
 }

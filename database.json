@@ -1,6 +1,124 @@
 {
-  "workspace": {},
+  "Microsoft X-Box 360 pad": {
+    "A": "a-mode",
+    "B": "b-mode",
+    "Start": "start",
+    "rx": "r-joy-left-right",
+    "ry": "r-joy-up-down",
+    "Mode": "select",
+    "rz": "analog-trig",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "Left Thumb": "l-trig-button"
+  },
+  "Gamesir-T4pro_21FD": {
+    "A": "a-mode",
+    "slider": "analog-trig",
+    "B": "b-mode",
+    "Start": "start",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-left-right",
+    "X": "x-mode",
+    "Select": "select",
+    "y": "l-joy-up-down",
+    "Y": "y-mode",
+    "z": "r-joy-left-right",
+    "Left Thumb": "l-trig-button"
+  },
+  "workspace": {
+    "https://gist.github.com/26a571e332833f23754d.git": [
+      "GIST: Bowler Studio Game Controllers",
+      "1638042344275"
+    ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1644769502551"
+    ],
+    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
+      "GIST: Sealed Bearing generator",
+      "1633894375978"
+    ],
+    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git": [
+      "Hephaestus-Arm/HIDLinkLoader",
+      "1634769195670"
+    ],
+    "https://github.com/Hephaestus-Arm/CamLightTester.git": [
+      "Hephaestus-Arm/CamLightTester",
+      "1644517354381"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git": [
+      "Halloween2020TheChild/RazerHydraHIDJava",
+      "1634591577520"
+    ],
+    "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
+      "esuts/Inkscape-Plugin-Demo",
+      "1636855714409"
+    ],
+    "https://github.com/OperationSmallKat/SmallKatLinkLoader.git": [
+      "OperationSmallKat/SmallKatLinkLoader",
+      "1634769265517"
+    ],
+    "https://github.com/madhephaestus/parabolicpictureframe.git": [
+      "https://github.com/madhephaestus/parabolicpictureframe.git",
+      "1640022152007"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
+      "madhephaestus/LewanSoulHornCadGenerator",
+      "1633888109076"
+    ],
+    "https://github.com/digitalsoldier4/IndMotorCadGenerator.git": [
+      "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
+      "1636854929345"
+    ],
+    "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git": [
+      "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
+      "1644767052032"
+    ],
+    "https://github.com/CommonWealthRobotics/DeviceProviders.git": [
+      "CommonWealthRobotics/DeviceProviders",
+      "1634769350243"
+    ],
+    "https://github.com/madhephaestus/BowlerStudioImageAssets.git": [
+      "madhephaestus/BowlerStudioImageAssets",
+      "1644765345918"
+    ],
+    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
+      "WPIRoboticsEngineering/HortonsLinkages",
+      "1642878392873"
+    ]
+  },
+  "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
+    "A": "y-mode",
+    "B": "b-mode",
+    "C": "a-mode",
+    "rz": "r-joy-up-down",
+    "Right Thumb": "r-trig-button",
+    "x": "l-joy-up-down",
+    "X": "x-mode",
+    "y": "l-joy-left-right",
+    "Left Thumb 3": "start",
+    "Right Thumb 2": "select",
+    "z": "r-joy-left-right",
+    "Z": "analog-trig",
+    "Left Thumb": "l-trig-button"
+  },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Game",
+      "X-Box",
+      "Dragon",
+      "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch"
+    ],
+    "linkDeviceName": "midnight",
+    "robotName": "Luna",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",

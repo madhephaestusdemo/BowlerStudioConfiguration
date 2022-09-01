@@ -66,6 +66,10 @@
       "https://github.com/madhephaestus/parabolicpictureframe.git",
       "1640022152007"
     ],
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
+      "Halloween2020TheChild/GroguMechanicsCad",
+      "1662076735426"
+    ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
       "madhephaestus/LewanSoulHornCadGenerator",
       "1633888109076"
@@ -134,7 +138,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
+      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
+      "hephaestus.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.31.4",

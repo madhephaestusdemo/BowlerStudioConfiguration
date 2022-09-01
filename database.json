@@ -86,9 +86,17 @@
       "madhephaestus/BowlerStudioImageAssets",
       "1644765345918"
     ],
+    "https://github.com/madhephaestus/sutmanaphone.git": [
+      "madhephaestus/sutmanaphone",
+      "1617902393266"
+    ],
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
       "1642878392873"
+    ],
+    "https://github.com/esuts/SVGExtrude_esuts.git": [
+      "esuts/SVGExtrude_esuts",
+      "1610298642984"
     ]
   },
   "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
@@ -119,6 +127,13 @@
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
+  "Saitek PLC Saitek P2600 Rumble Force Pad": {
+    "jogKinz": "rz",
+    "jogLink": "x",
+    "jogKinslider": "slider",
+    "jogKiny": "y",
+    "jogKinx": "x"
+  },
   "studio-open-git": {
     "https://github.com/madhephaestusdemo/sphere_madhephaestusdemo.git:sphere.groovy": [
       "https://github.com/madhephaestusdemo/sphere_madhephaestusdemo.git",
@@ -129,11 +144,14 @@
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.31.4",
     "tutorialBranch": "master",
+    "showTerminal": true,
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
     "skinBranch": "1.31.7",
+    "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.31.7",
-    "notifiedArduinoDep": true
+    "notifiedArduinoDep": true,
+    "showCreatureLab": true
   }
 }

@@ -121,15 +121,15 @@
   "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
+      "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch",
       "Game",
       "X-Box",
-      "Dragon",
-      "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch"
+      "Dragon"
     ],
-    "linkDeviceName": "midnight",
-    "robotName": "Luna",
+    "linkDeviceName": "kevkat",
+    "robotName": "MediumKat",
     "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
@@ -138,12 +138,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git:hephaestus.xml": [
-      "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git",
-      "hephaestus.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.31.4",

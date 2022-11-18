@@ -90,6 +90,10 @@
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
     ],
+    "https://github.com/madhephaestusdemo/WalkTest_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/WalkTest_madhephaestusdemo.git",
+      "1668736799553"
+    ],
     "https://github.com/madhephaestus/BowlerStudioImageAssets.git": [
       "madhephaestus/BowlerStudioImageAssets",
       "1644765345918"
@@ -143,9 +147,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:helloWorld.groovy": [
-      "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
-      "helloWorld.groovy"
+    "https://github.com/madhephaestusdemo/WalkTest_madhephaestusdemo.git:WalkTest.groovy": [
+      "https://github.com/madhephaestusdemo/WalkTest_madhephaestusdemo.git",
+      "WalkTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {

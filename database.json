@@ -86,6 +86,10 @@
       "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
       "1636854929345"
     ],
+    "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git": [
+      "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git",
+      "1668975173824"
+    ],
     "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git": [
       "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
       "1644767052032"
@@ -101,10 +105,6 @@
     "https://github.com/madhephaestus/BowlerStudioImageAssets.git": [
       "madhephaestus/BowlerStudioImageAssets",
       "1644765345918"
-    ],
-    "https://github.com/madhephaestus/sutmanaphone.git": [
-      "madhephaestus/sutmanaphone",
-      "1617902393266"
     ],
     "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
       "WPIRoboticsEngineering/HortonsLinkages",
@@ -146,7 +146,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git:MoveLimb.groovy": [
+      "https://github.com/madhephaestusdemo/MoveLimb_madhephaestusdemo.git",
+      "MoveLimb.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.31.4",

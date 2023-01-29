@@ -146,6 +146,10 @@
     "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git:BezierEditorDemo.groovy": [
       "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git",
       "BezierEditorDemo.groovy"
+    ],
+    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:launch.groovy": [
+      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {

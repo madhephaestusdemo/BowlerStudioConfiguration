@@ -146,16 +146,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git:BezierEditorDemo.groovy": [
-      "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git",
-      "BezierEditorDemo.groovy"
-    ],
-    "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git:launch.groovy": [
-      "https://github.com/Halloween2020TheChild/RazerHydraHIDJava.git",
-      "launch.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.31.4",

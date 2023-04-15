@@ -50,10 +50,6 @@
       "https://github.com/madhephaestusdemo/sphere_madhephaestusdemo.git",
       "1645371608411"
     ],
-    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git": [
-      "madhephaestusdemo/helloWorld_madhephaestusdemo",
-      "1681583122137"
-    ],
     "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git": [
       "https://github.com/madhephaestusdemo/BezierEditorDemo_madhephaestusdemo.git",
       "1673912776922"
@@ -145,12 +141,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git:helloWorld.groovy": [
-      "https://github.com/madhephaestusdemo/helloWorld_madhephaestusdemo.git",
-      "helloWorld.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.31.4",

@@ -146,6 +146,9 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",

@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "https://github.com/madhephaestusdemo/VanyaProgect.git": [
+      "madhephaestusdemo/VanyaProgect",
+      "1711723558577"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git": [
       "GIST: Bowler Studio Game Controllers",
       "1638042344275"

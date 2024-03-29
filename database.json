@@ -98,10 +98,6 @@
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
     ],
-    "https://github.com/madhephaestusdemo/Leeprograming5M.git": [
-      "madhephaestusdemo/Leeprograming5M",
-      "1711723490791"
-    ],
     "https://github.com/madhephaestus/BowlerStudioImageAssets.git": [
       "madhephaestus/BowlerStudioImageAssets",
       "1644765345918"
@@ -150,9 +146,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/madhephaestusdemo/Leeprograming5M.git:Leeprograming5M.groovy": [
-      "https://github.com/madhephaestusdemo/Leeprograming5M.git",
-      "Leeprograming5M.groovy"
+    "https://github.com/madhephaestusdemo/VanyaProgect.git:VanyaProgect.groovy": [
+      "https://github.com/madhephaestusdemo/VanyaProgect.git",
+      "VanyaProgect.groovy"
     ]
   },
   "BowlerStudioConfigs": {

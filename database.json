@@ -98,6 +98,10 @@
       "CommonWealthRobotics/DeviceProviders",
       "1634769350243"
     ],
+    "https://github.com/madhephaestusdemo/Leeprograming5M.git": [
+      "madhephaestusdemo/Leeprograming5M",
+      "1711723490791"
+    ],
     "https://github.com/madhephaestus/BowlerStudioImageAssets.git": [
       "madhephaestus/BowlerStudioImageAssets",
       "1644765345918"
@@ -145,7 +149,12 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/madhephaestusdemo/Leeprograming5M.git:Leeprograming5M.groovy": [
+      "https://github.com/madhephaestusdemo/Leeprograming5M.git",
+      "Leeprograming5M.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.31.4",

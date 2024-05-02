@@ -30,6 +30,10 @@
     "Left Thumb": "l-trig-button"
   },
   "workspace": {
+    "": [
+      "Project ",
+      "1714671343974"
+    ],
     "https://github.com/madhephaestusdemo/VanyaProgect.git": [
       "madhephaestusdemo/VanyaProgect",
       "1711723558577"
@@ -81,10 +85,6 @@
     "https://github.com/Halloween2020TheChild/GroguMechanicsCad.git": [
       "Halloween2020TheChild/GroguMechanicsCad",
       "1662076735426"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "madhephaestus/LewanSoulHornCadGenerator",
-      "1633888109076"
     ],
     "https://github.com/digitalsoldier4/IndMotorCadGenerator.git": [
       "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
